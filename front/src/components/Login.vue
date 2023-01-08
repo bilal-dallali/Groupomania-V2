@@ -80,7 +80,6 @@ img {
 
 body {
   align-items: center;
-  padding-top: 40px;
   padding-bottom: 40px;
   background-color: #f5f5f5;
 }
